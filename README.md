@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hubert-Ayissi
 - 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning DAta Analysis and Data Science
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 🌱 I’m currently learning Data Science 
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me willy.eloungou@gmail.com
 
 <!---
