@@ -1,3 +1,5 @@
+-- test
+
 SELECT *,             
 (CASE WHEN  re_reveil_step_desendormissement_per_uuid is not null THEN 1 ELSE 0 END) AS re_endormi_puis_reveil,
  DATE_DIFF(  cast(substr(re_last_open_date,1,10)as date)  ,  crm_subscriptionDate  , DAY ) as re_delay_subscription_to_last_open, 
